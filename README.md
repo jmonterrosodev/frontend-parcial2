@@ -10,11 +10,11 @@ Este proyecto es una aplicación frontend que se conecta a una API desarrollada 
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/jmonterrosodev/backend-parcial2
+    git clone https://github.com/jmonterrosodev/frontend-parcial2
     ```
 2. Navega al directorio del proyecto:
     ```bash
-    cd backend-parcial2
+    cd frontend-parcial2
     ```
 3. Instala las dependencias:
     ```bash
